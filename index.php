@@ -18,6 +18,7 @@
           $_SESSION['email'] = $res['log_email'];
           $loc='/project/dashboard.php';
           header("Location:  $loc");
+          
         }
     }  
 ?>
