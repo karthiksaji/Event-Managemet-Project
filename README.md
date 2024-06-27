@@ -1,2 +1,2 @@
-# mini-project
-just for fun
+# project
+event management panel
